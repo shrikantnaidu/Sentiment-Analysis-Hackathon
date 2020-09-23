@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Hackathon
+# Twitter-Sentiment-Analysis
 
 ## Project Overview
 
